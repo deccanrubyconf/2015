@@ -9,7 +9,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     execjs (2.5.2)
-    json (1.8.3)
+    json (2.3.1)
     rack (1.6.12)
     sass (3.4.16)
     uglifier (2.7.1)
